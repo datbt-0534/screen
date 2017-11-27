@@ -1,0 +1,47 @@
+<resources>
+  <dimen name="activity_horizontal_margin">
+    24.0dp
+  </dimen>
+  <dimen name="activity_vertical_margin">
+    24.0dp
+  </dimen>
+  <dimen name="dp1">
+    1.5dp
+  </dimen>
+  <dimen name="dp2">
+    3.0dp
+  </dimen>
+  <dimen name="dp3">
+    4.5dp
+  </dimen>
+  <dimen name="dp4">
+    6.0dp
+  </dimen>
+  <dimen name="dp5">
+    7.5dp
+  </dimen>
+  <dimen name="dp6">
+    9.0dp
+  </dimen>
+  <dimen name="dp7">
+    10.5dp
+  </dimen>
+  <dimen name="dp8">
+    12.0dp
+  </dimen>
+  <dimen name="dp9">
+    13.5dp
+  </dimen>
+  <dimen name="dp10">
+    15.0dp
+  </dimen>
+  <dimen name="dp11">
+    16.5dp
+  </dimen>
+  <dimen name="sp10">
+    15.0sp
+  </dimen>
+  <dimen name="sp20">
+    30.0sp
+  </dimen>
+</resources>
